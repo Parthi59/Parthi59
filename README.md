@@ -51,20 +51,9 @@
 ║                  SYRAA detects hallucinations before         ║
 ║                  you trust the answer                        ║
 ╚══════════════════════════════════════════════════════════════╝
+
 ```
-
 </div>
-
----
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Parthi59/Parthi59/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
 
 <!-- PROJECTS — UNIQUE CARD STYLE -->
 ## 🛸 Live Projects
@@ -121,7 +110,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parthi59&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthi59&theme=radical&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Parthi59&theme=radical&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
@@ -175,6 +164,6 @@
 
 *"The best AI isn't the flashiest in a demo — it's practical, reliable, and built around real people."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0a0a0a&height=120&section=footer&text=Let's%20Connect%20🚀&fontSize=24&fontColor=ff2d78&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0a0a0a&height=120&section=footer&text=Let%27s%20Connect%20%F0%9F%9A%80&fontSize=24&fontColor=ff2d78&animation=twinkling&fontAlignY=65"/>
 
 </div>
