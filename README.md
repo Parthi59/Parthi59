@@ -163,7 +163,7 @@
 
 <!-- QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=2000&color=FF2D78&center=true&vCenter=true&width=700&lines=The+best+AI+isn't+the+flashiest+in+a+demo+—+it's+practical%2C+reliable%2C+and+real.;I+build+AI+that+works+in+production+—+not+just+in+demos.;SYRAA%3A+Because+AI+answers+must+be+trusted%2C+not+just+generated." alt="Quote"/>
 </div>
 
 ---
