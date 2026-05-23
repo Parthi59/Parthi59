@@ -70,7 +70,7 @@
 
 ---
 
-## 🧬 Tech DNA
+## 🧬 Tech STACK
 
 <div align="center">
 
