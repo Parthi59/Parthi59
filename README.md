@@ -1,7 +1,7 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0533,100:0d0221&height=220&section=header&text=YM%20PARTHISH&fontSize=70&fontColor=ff2d78&animation=fadeIn&fontAlignY=38&stroke=ff2d78&strokeWidth=2&desc=Building%20AI%20that%20works%20in%20production%20—%20not%20just%20in%20demos&descSize=15&descAlignY=62&descFontColor=a855f7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0533,100:0d0221&height=220&section=header&text=YM%20PARTHISH&fontSize=70&fontColor=ff2d78&animation=fadeIn&fontAlignY=38&stroke=ff2d78&strokeWidth=2&desc=Building%20AI%20that%20works%20in%20production%20—%20not%20just%20in%20demos&descSize=15&descAlignY=62&descFontColor=a855f7"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF2D78&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Generative+AI+Engineer+%F0%9F%A4%96;RAG+%2B+Agentic+AI+Developer+%F0%9F%94%97;Full-Stack+AI+Product+Builder+%F0%9F%9A%80;IBM+Gen+AI+Engineer+%E2%9C%85;Megahack+6.0+National+Hackathon+%F0%9F%8F%86" alt="Typing SVG"/>
