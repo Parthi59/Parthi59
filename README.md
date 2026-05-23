@@ -102,7 +102,8 @@
 
 ---
 
-## 📡 GitHub Metrics
+
+## 📊 GitHub Metrics
 
 <div align="center">
 
@@ -114,7 +115,9 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi59&theme=radical&hide_border=true&layout=compact&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi59&theme=radical&hide_border=true&layout=compact&langs_count=6" width="49%" />
+
+</div>
 
 </div>
 
