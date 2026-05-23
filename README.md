@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://visitcount.itsvg.in/api?id=Parthi59&icon=6&color=6"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Parthi59&color=FF2D78&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi59&theme=radical&hide_border=true&layout=compact&langs_count=8" width="42%"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi59&theme=radical&hide_border=true&layout=compact&langs_count=6)
 
 </div>
 
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthi59&bg_color=0d0221&color=ff2d78&line=a855f7&point=ff2d78&area=true&hide_border=true" width="95%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parthi59&theme=react-dark&hide_border=true)
 
 </div>
 
