@@ -106,17 +106,19 @@
 
 ## 📊 GitHub Metrics
 
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Parthi59&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Parthi59&theme=radical&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Parthi59&theme=radical&hide_border=true" width="49%" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi59&theme=radical&hide_border=true&layout=compact&langs_count=6" width="49%" />
+
 
 </div>
 
