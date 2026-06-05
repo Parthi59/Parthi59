@@ -3,6 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0533,100:0d0221&height=220&section=header&text=YM%20PARTHISH&fontSize=70&fontColor=ff2d78&animation=fadeIn&fontAlignY=38&stroke=ff2d78&strokeWidth=2&desc=Building%20AI%20that%20works%20in%20production%20not%20just%20in%20demos&descSize=15&descAlignY=62&descFontColor=a855f7"/>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF2D78&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Generative+AI+Engineer;RAG+%2B+Agentic+AI+Developer;Full-Stack+AI+Product+Builder;IBM+Gen+AI+Engineer;Megahack+6.0+National+Hackathon" alt="Typing SVG"/>
 
 <br/>
@@ -109,7 +110,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parthi59&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parthi59&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=Parthi59&theme=radical&hide_border=true" width="49%" />
 
@@ -117,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthi59&theme=radical&hide_border=true&layout=compact&langs_count=6" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parthi59&theme=radical&hide_border=true&layout=compact&langs_count=6" width="49%" />
 
 
 </div>
@@ -138,7 +139,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Parthi59&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Parthi59&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7&row=1"/>
 
 </div>
 
