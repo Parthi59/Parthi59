@@ -64,7 +64,7 @@
 | [![Live](#) | **SYRAA Trust Engine V2** | RAG + Hallucination Detection + Claim Verification + Trust Scoring | FastAPI · RAG · LLMs |
 | [![Live](https://img.shields.io/badge/LIVE-FF2D78?style=flat-square)](https://ideazen.vercel.app) | **IdeaZen AI** | AI Project Idea Generator with Hackathon Execution Mode | Groq API · React · Node.js |
 | [![Live](#) | **AI Voice Calling Agent** | Real-time Voice AI with smart call automation | Vapi · ElevenLabs · LLMs |
-| [![Built](https://img.shields.io/badge/BUILT-a855f7?style=flat-square)](https://resqnet-jade.vercel.app] | **ResQNet / Disaster SOS** | Emergency AI System — Megahack 6.0 National | AI · Real-Time Systems |
+| [![Built](https://img.shields.io/badge/BUILT-a855f7?style=flat-square)](https://resqnet-jade.vercel.app) | **ResQNet / Disaster SOS** | Emergency AI System — Megahack 6.0 National | AI · Real-Time Systems |
 | [![Live](https://img.shields.io/badge/LIVE-FF2D78?style=flat-square)](#) | **CITRAA** | Smart Real Estate Discovery Platform | React · Node · MongoDB |
 
 </div>
