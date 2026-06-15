@@ -61,7 +61,7 @@
 
 | Status | Project | What it Does | Stack |
 |:---:|---|---|---|
-|      | **SYRAA Trust Engine V2** | RAG + Hallucination Detection + Chunks + Embeddings + Claim Verification + Trust Scoring | FastAPI · RAG · LLMs |
+| [![Live](https://img.shields.io/badge/LIVE-FF2D78?style=flat-square)](https://syraa-ai-trust-engine-v2.vercel.app) | **SYRAA Trust Engine V2** | RAG + Hallucination Detection + Chunks + Embeddings + Claim Verification + Trust Scoring | FastAPI · RAG · LLMs |
 | [![Live](https://img.shields.io/badge/LIVE-FF2D78?style=flat-square)](https://ideazen.vercel.app) | **IdeaZen AI** | AI Project Idea Generator with Hackathon Execution Mode | Groq API · React · Node.js |
 |     | **AI Voice Calling Agent** | Real-time Voice AI with smart call automation | Vapi · ElevenLabs · LLMs |
 | [![Live](https://img.shields.io/badge/LIVE-a855f7?style=flat-square)](https://resqnet-jade.vercel.app) | **ResQNet / Disaster SOS** | Emergency AI System — Megahack 6.0 National | AI · Real-Time Systems |
