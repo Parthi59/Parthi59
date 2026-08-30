@@ -123,17 +123,6 @@
 
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parthi59&theme=react-dark&hide_border=true)
-
-</div>
-
----
 
 ## 🎖️ Highlights
 
@@ -144,7 +133,6 @@
 ⚡ **edQuest 30-Hour Dev Quest** — MERN + ML Engineering &nbsp;|&nbsp; 🎬 **AI Filmmaker** — RunwayML · Luma AI · Midjourney
 
 </div>
-
 ---
 
 ## 💬 Quote
