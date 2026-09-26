@@ -118,10 +118,10 @@ Publishing integrations include **Discord and Mastodon**; additional platforms c
 | **AI applications** | RAG, LLM integration, Sentence Transformers, Groq API |
 | **Machine learning** | PyTorch, TensorFlow, scikit-learn |
 | **Languages** | Python, JavaScript, TypeScript |
-| **Frontend** | React, Tailwind CSS, Vite |
+| **Frontend** | React, Tailwind CSS, Next.js, Vite |
 | **Backend & data** | FastAPI, Node.js, Express, REST APIs, Prisma, MongoDB |
 | **Voice AI** | Vapi, ElevenLabs |
-| **Development** | Git, GitHub, Postman, npm, VS Code, Vercel |
+| **Development** | Git, GitHub, Postman, npm, Antigravity, Vercel |
 
 <br/>
 
