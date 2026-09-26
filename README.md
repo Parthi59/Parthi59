@@ -66,7 +66,7 @@ The scores support human review; they do not guarantee that an answer is correct
 
 <br/>
 
-### `02` [IdeaZen AI](https://ideazen.vercel.app)
+### `03` [IdeaZen AI](https://ideazen.vercel.app)
 
 **From project ideas to implementation blueprints**
 
