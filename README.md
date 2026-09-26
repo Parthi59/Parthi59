@@ -44,7 +44,6 @@ An independent open-world game project combining free-roam exploration, vehicles
 
 I shaped the gameplay direction and refined the experience through repeated implementation and testing, bringing multiple interacting systems together in one city.
 
-[Play Grand City 2099](https://grand-city-openworld.vercel.app)
 
 <br/>
 
@@ -62,7 +61,6 @@ I independently built SYRAA to help users inspect whether an AI-generated answer
 
 The scores support human review; they do not guarantee that an answer is correct.
 
-[Open application](https://syraa-ai-trust-engine-v2.vercel.app) · [View code](https://github.com/Parthi59/syraa-ai-trust-engine-V2)
 
 <br/>
 
@@ -78,7 +76,7 @@ A team-built platform that recommends projects based on a user’s skills, inter
 
 The platform also includes **Hackathon Mode**. I co-authored the published paper describing its two-stage generation architecture.
 
-[Open application](https://ideazen.vercel.app) · [Read the paper](https://rjwave.org/ijedr/papers/IJEDR2601408.pdf)
+[Read the paper](https://rjwave.org/ijedr/papers/IJEDR2601408.pdf)
 
 <br/>
 
