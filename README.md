@@ -34,7 +34,21 @@ I use AI-assisted development tools alongside implementation, testing and iterat
 
 ## Featured work
 
-### `01` [SYRAA Trust Engine V2](https://syraa-ai-trust-engine-v2.vercel.app)
+### `01` [Grand City 2099](https://grand-city-openworld.vercel.app)
+
+**A playable city inside the browser**
+
+`JavaScript` · `Three.js` · `AI-assisted development`
+
+An independent open-world game project combining free-roam exploration, vehicles, pedestrians, missions, police pursuits, combat, dynamic audio and saved gameplay.
+
+I shaped the gameplay direction and refined the experience through repeated implementation and testing, bringing multiple interacting systems together in one city.
+
+[Play Grand City 2099](https://grand-city-openworld.vercel.app)
+
+<br/>
+
+### `02` [SYRAA Trust Engine V2](https://syraa-ai-trust-engine-v2.vercel.app)
 
 **Document answers with evidence checks**
 
@@ -65,20 +79,6 @@ A team-built platform that recommends projects based on a user’s skills, inter
 The platform also includes **Hackathon Mode**. I co-authored the published paper describing its two-stage generation architecture.
 
 [Open application](https://ideazen.vercel.app) · [Read the paper](https://rjwave.org/ijedr/papers/IJEDR2601408.pdf)
-
-<br/>
-
-### `03` [Grand City 2099](https://grand-city-openworld.vercel.app)
-
-**A playable city inside the browser**
-
-`JavaScript` · `Three.js` · `AI-assisted development`
-
-An independent open-world game project combining free-roam exploration, vehicles, pedestrians, missions, police pursuits, combat, dynamic audio and saved gameplay.
-
-I shaped the gameplay direction and refined the experience through repeated implementation and testing, bringing multiple interacting systems together in one city.
-
-[Play Grand City 2099](https://grand-city-openworld.vercel.app)
 
 <br/>
 
